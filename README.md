@@ -22,7 +22,7 @@ Data can include source and high-level description (e.g. # obs)
 
 
 #### Visual 1 Title
-![sample image](project1_sample_image.png)
+https://colab.research.google.com/drive/1ldrWV5gleJmv-SiixUM-2hhfzb4Ll2Vn#scrollTo=Raifif1xn5LT&line=1&uniqifier=1
 
 > Sentence about visualization.
 
