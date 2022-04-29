@@ -9,36 +9,34 @@ Grocery Store and Super Market Owens are tying to understand which products and 
 
 
 ### Data:
-Data can include source and high-level description (e.g. # obs)
+My finding in the data where that the oweners should spend less time worrying about visiablity and more time worrying about Smaller stores. It seems to me that after a curtain price point that it become far less likely to profitable. I would recommened collectiong more data on some different metrics to form a more clear understanding of whats at play for my findings. 
 
 
 ## Methods
-- Data preparation steps with explanation and justification for choices
+- I used various data cleaning and module testing to arrive at these results. Some of my favorite example are pictured through the links below. 
+- I found that using Various Tree style models to be the most effecint for future price predictions 
 - 
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
 
-
-#### Visual 1 Title
+Corrilation 
 https://colab.research.google.com/drive/1ldrWV5gleJmv-SiixUM-2hhfzb4Ll2Vn#scrollTo=Raifif1xn5LT&line=1&uniqifier=1
 
-> Sentence about visualization.
+> The only coorilation that was found was between sales price and MSRP.
 
-#### Visual 2 Title
+Mean and Median of Outlet Sales
+https://colab.research.google.com/drive/1ldrWV5gleJmv-SiixUM-2hhfzb4Ll2Vn#scrollTo=Qrrv0PjjqRIq&line=1&uniqifier=1
 
-## Recommendations:
-
-More of your own text here
+> Sales seem to me mostly in smaller venues and by volume
 
 
 ## Limitations & Next Steps
 
-More of your own text here
+I believe that for more accurate data more variable must be collected. For example item weight. spend less time collecting data like that and more colleting for example: Self time, Waste, Volume of Customers. These metrics would be much more helpful when trying to determine success of not only products but the stores themselves selling those products. 
 
 
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **edwardfakier@gmail.com**
