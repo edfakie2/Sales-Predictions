@@ -15,7 +15,12 @@ My finding in the data where that the oweners should spend less time worrying ab
 ## Methods
 - I used various data cleaning and module testing to arrive at these results. Some of my favorite example are pictured through the links below. 
 - I found that using Various Tree style models to be the most effecint for future price predictions 
-- 
+
+##Modeling
+Decision Tree Regressior proved to be the best model to use for predictions for future sales for outlests
+-The meterics used were in my opinion in corrected there wasnt much corrilation at all in this data its difficult to tune any models in my opinion
+-My advise to collect more usfull metrics for future modeling
+
 
 ## Results
 
