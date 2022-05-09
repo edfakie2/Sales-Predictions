@@ -26,7 +26,7 @@ Corrilation
 > The only coorilation that was found was between sales price and MSRP.
 
 Mean and Median of Outlet Sales
-![download (1)](https://user-images.githubusercontent.com/65575004/167511252-13371db3-4f94-4b95-85b2-53ce7dc7bab9.png)
+![image](https://user-images.githubusercontent.com/65575004/167511417-342e7c5b-4ea7-4ecf-b8b6-a97ffcf9cc67.png)
 
 > Sales seem to me mostly in smaller venues and by volume
 
