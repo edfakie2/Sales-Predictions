@@ -20,13 +20,13 @@ My finding in the data where that the oweners should spend less time worrying ab
 ## Results
 
 
+Corrilation ![download](https://user-images.githubusercontent.com/65575004/167511151-c41ceff6-2ccc-43fb-bc89-59d1da6888c7.png)
 Corrilation 
-https://colab.research.google.com/drive/1ldrWV5gleJmv-SiixUM-2hhfzb4Ll2Vn#scrollTo=Raifif1xn5LT&line=1&uniqifier=1
 
 > The only coorilation that was found was between sales price and MSRP.
 
 Mean and Median of Outlet Sales
-https://colab.research.google.com/drive/1ldrWV5gleJmv-SiixUM-2hhfzb4Ll2Vn#scrollTo=Qrrv0PjjqRIq&line=1&uniqifier=1
+![download (1)](https://user-images.githubusercontent.com/65575004/167511252-13371db3-4f94-4b95-85b2-53ce7dc7bab9.png)
 
 > Sales seem to me mostly in smaller venues and by volume
 
